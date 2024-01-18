@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 📖 I regularly learn things related to programming from articles from [https://www.w3schools.com/ , https://www.geeksforgeeks.org/](https://www.w3schools.com/ , https://www.geeksforgeeks.org/)
-
+- 📖 I regularly learn things related to programming from articles from [https://www.w3schools.com/ , https://www.geeksforgeeks.org/]
 - 💬 Ask me about **Python, HTML, CSS, JS basics**
 
 - 📫 How to reach me **aishwaryajune6@gmail.com**
