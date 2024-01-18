@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aishwaryajune6@gmail.com**
 
-- ⚡ Fun fact **People think me extrovert, But i am ambivert Person Who can balance both at eventual Timings.**
+- ⚡ Fun fact **People think me extrovert, But i am an ambivert Person Who can balance both at eventual Timings.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
