@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👩🏻‍💼, I'm Aishwarya</h1>
-<h4 align="center">Computer Application Student</h4>
+<h4 align="center">Student of Computer Applications</h4>
 <img align="Center" src="https://github.com/Aishwarya-Shanmugam/Aishwarya-Shanmugam/assets/101408286/58ecf103-58f6-4b16-b106-a6e006cea409">
 
 
