@@ -3,13 +3,13 @@
 <img align="Center" src="https://github.com/Aishwarya-Shanmugam/Aishwarya-Shanmugam/assets/101408286/58ecf103-58f6-4b16-b106-a6e006cea409">
 
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I'm Currently Swotting **Full Stack Development in MERN Stack from GUVI GEEK NETWORK PRIVATE LIMITED**
 
-- 📖 I regularly learn things related to programming from articles from [https://www.w3schools.com/ , https://www.geeksforgeeks.org/](https://www.w3schools.com/ , https://www.geeksforgeeks.org/)
+- 📖 I regularly learn things related to programming from [https://www.w3schools.com/ , https://www.geeksforgeeks.org/](https://www.w3schools.com/ , https://www.geeksforgeeks.org/)
 
-- 💬 Ask me about **Python, HTML, CSS, JS basics**
+- 💬 Ask me about **Python, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **aishwaryajune6@gmail.com**
+- 📫 To reach me Mail to this - **aishwaryajune6@gmail.com** , LinkedIn Profile *https://www.linkedin.com/in/aishwaryajune6/*
 
 - ⚡ Fun fact **People think me extrovert, But i am ambivert Person Who can balance both at eventual Timings.**
 
